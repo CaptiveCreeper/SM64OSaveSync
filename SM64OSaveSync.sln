@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM64OSaveSync.Core", "SM64OSaveSync\SM64OSaveSync.Core.csproj", "{A15D6F62-C4FE-439B-B576-8AA532783ED2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM64OSaveSync.Core", "SM64OSaveSync.Core\SM64OSaveSync.Core.csproj", "{A15D6F62-C4FE-439B-B576-8AA532783ED2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM64OSaveSync.File", "SM64OSaveSync.File\SM64OSaveSync.File.csproj", "{B4A134DF-69F4-4400-A827-E103D52A5E6F}"
 EndProject
