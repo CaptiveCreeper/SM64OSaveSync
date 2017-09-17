@@ -16,7 +16,7 @@ namespace SM64OSaveSync.Core
 
         public bool CanonOpen { get; set; }
 
-        public Int16 CoinHighScore { get; set; }
+        public byte CoinHighScore { get; set; }
 
     }
 }

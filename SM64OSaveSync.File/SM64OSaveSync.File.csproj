@@ -4,4 +4,8 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SM64OSaveSync.Core\SM64OSaveSync.Core.csproj" />
+  </ItemGroup>
+
 </Project>

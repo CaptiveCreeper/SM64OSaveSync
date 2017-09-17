@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SM64OSaveSync.Core
 {
-    class GlobalConfig
+    public class GlobalConfig
     {
     }
 }

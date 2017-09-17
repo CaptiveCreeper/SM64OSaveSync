@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SM64OSaveSync.Core
 {
-    class Save
+    public class Save
     {
         public Mario A { get; set; }
         public Mario A_Backup { get; set; }
@@ -20,5 +20,18 @@ namespace SM64OSaveSync.Core
 
         public GlobalConfig Config { get; set; }
         public GlobalConfig ConfigBackup { get; set; }
+
+        public Save()
+        {
+            A = new Mario();
+            A_Backup = new Mario();
+            B = new Mario();
+            B_Backup = new Mario();
+            C = new Mario();
+            C_Backup = new Mario();
+            D = new Mario();
+            D_Backup = new Mario();
+
+        }
     }
 }
