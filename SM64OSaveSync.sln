@@ -9,6 +9,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SM64OSaveSync.File", "SM64O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM64OSaveSync.Console.Test", "SM64OSaveSync.Console.Test\SM64OSaveSync.Console.Test.csproj", "{36BFB2AE-DF97-4B54-8EAF-B81DAF2C5FE7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test Saves", "Test Saves", "{0F2FF1FC-2140-40F6-AE0A-D38C57B8667F}"
+	ProjectSection(SolutionItems) = preProject
+		SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep = SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep
+		SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep.phazos = SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep.phazos
+		SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep.test = SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64.eep.test
+		SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64_4.eep.lostcap = SM64OSaveSync.Console.Test\bin\Debug\SUPER MARIO 64_4.eep.lostcap
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
